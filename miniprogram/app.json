@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "老白-music",
+    "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {
+    "van-button": "@vant/weapp/button/index"
+  },
+  "sitemapLocation": "sitemap.json"
+}

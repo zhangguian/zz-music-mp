@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="title">{{ message }}</view>
+  <van-button type="primary" plain bindtap="hi">请求数据</van-button>
+</view>

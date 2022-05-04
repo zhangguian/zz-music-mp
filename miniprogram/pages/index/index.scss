@@ -1,0 +1,13 @@
+/**index.wxss**/
+.container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  .title {
+    font-size: 50rpx;
+    margin-bottom: 5vh;
+  }
+}
